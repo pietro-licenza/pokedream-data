@@ -111,6 +111,154 @@ A Party comporta até **6 Pokémon**. O Pokémon **em campo** (ativo) é quem lu
 
 Menu **Hunts** — onde você caça Pokémon selvagens.
 
+### Lista Completa de Hunts por Nível
+
+| Hunt | Tipo | Level | Dificuldade |
+|------|------|-------|-------------|
+| Abra | Psychic | 1 | Fácil |
+| Aerodactyl 🔒 | Rock/Flying | 100 | Difícil |
+| Alakazam 🔒 | Psychic | 100 | Difícil |
+| Arbok | Poison | 20 | Fácil |
+| Arcanine 🔒 | Fire | 100 | Difícil |
+| Beedrill | Bug/Poison | 1 | Fácil |
+| Bellsprout | Grass/Poison | 1 | Fácil |
+| Blastoise 🔒 | Water | 80 | Difícil |
+| Bulbasaur | Grass/Poison | 1 | Fácil |
+| Butterfree | Bug/Flying | 1 | Fácil |
+| Caterpie | Bug | 1 | Fácil |
+| Chansey 🔒 | Normal | 60 | Médio |
+| Charizard 🔒 | Fire/Flying | 80 | Difícil |
+| Charmander | Fire | 1 | Fácil |
+| Charmeleon | Fire | 20 | Fácil |
+| Clefable 🔒 | Fairy | 80 | Difícil |
+| Clefairy | Fairy | 20 | Fácil |
+| Cloyster 🔒 | Water/Ice | 60 | Médio |
+| Cubone | Ground | 1 | Fácil |
+| Dewgong 🔒 | Water/Ice | 60 | Médio |
+| Diglett | Ground | 1 | Fácil |
+| Dodrio 🔒 | Normal/Flying | 60 | Médio |
+| Doduo | Normal/Flying | 1 | Fácil |
+| Dragonair 🔒 | Dragon | 80 | Difícil |
+| Dragonite 🔒 | Dragon/Flying | 100 | Difícil |
+| Dratini | Dragon | 1 | Fácil |
+| Drowzee | Psychic | 1 | Fácil |
+| Dugtrio | Ground | 20 | Fácil |
+| Eevee | Normal | 1 | Fácil |
+| Ekans | Poison | 1 | Fácil |
+| Electabuzz 🔒 | Electric | 100 | Difícil |
+| Electrode | Electric | 20 | Fácil |
+| Exeggcute | Grass/Psychic | 1 | Fácil |
+| Exeggutor 🔒 | Grass/Psychic | 100 | Difícil |
+| Fearow | Normal/Flying | 40 | Médio |
+| Flareon 🔒 | Fire | 80 | Difícil |
+| Gastly | Ghost/Poison | 1 | Fácil |
+| Gengar 🔒 | Ghost/Poison | 100 | Difícil |
+| Geodude | Rock/Ground | 1 | Fácil |
+| Gloom | Grass/Poison | 1 | Fácil |
+| Golbat | Poison/Flying | 20 | Fácil |
+| Goldeen | Water | 1 | Fácil |
+| Golduck 🔒 | Water | 80 | Difícil |
+| Golem 🔒 | Rock/Ground | 80 | Difícil |
+| Graveler | Rock/Ground | 20 | Fácil |
+| Grimer | Poison | 1 | Fácil |
+| Growlithe | Fire | 1 | Fácil |
+| Gyarados 🔒 | Water/Flying | 100 | Difícil |
+| Haunter | Ghost/Poison | 40 | Médio |
+| Hitmonchan 🔒 | Fighting | 60 | Médio |
+| Hitmonlee 🔒 | Fighting | 60 | Médio |
+| Horsea | Water | 1 | Fácil |
+| Hypno 🔒 | Psychic | 60 | Médio |
+| Ivysaur | Grass/Poison | 20 | Fácil |
+| Jigglypuff | Normal/Fairy | 20 | Fácil |
+| Jolteon 🔒 | Electric | 80 | Difícil |
+| Jynx 🔒 | Ice/Psychic | 80 | Difícil |
+| Kabuto | Rock/Water | 1 | Fácil |
+| Kabutops 🔒 | Rock/Water | 80 | Difícil |
+| Kadabra | Psychic | 40 | Médio |
+| Kakuna | Bug/Poison | 1 | Fácil |
+| Kangaskhan 🔒 | Normal | 80 | Difícil |
+| Kingler 🔒 | Water | 60 | Médio |
+| Koffing | Poison | 1 | Fácil |
+| Krabby | Water | 1 | Fácil |
+| Lapras 🔒 | Water/Ice | 100 | Difícil |
+| Lickitung 🔒 | Normal | 60 | Médio |
+| Machamp 🔒 | Fighting | 80 | Difícil |
+| Machoke | Fighting | 20 | Fácil |
+| Machop | Fighting | 1 | Fácil |
+| Magikarp | Water | 1 | Fácil |
+| Magmar 🔒 | Fire | 100 | Difícil |
+| Magnemite | Electric/Steel | 1 | Fácil |
+| Magneton 🔒 | Electric/Steel | 80 | Difícil |
+| Mankey | Fighting | 1 | Fácil |
+| Marowak | Ground | 40 | Médio |
+| Meowth | Normal | 1 | Fácil |
+| Metapod | Bug | 1 | Fácil |
+| Muk 🔒 | Poison | 80 | Difícil |
+| Nidoking 🔒 | Poison/Ground | 80 | Difícil |
+| Nidoqueen 🔒 | Poison/Ground | 80 | Difícil |
+| Nidorina | Poison | 1 | Fácil |
+| Nidorino | Poison | 1 | Fácil |
+| Ninetales 🔒 | Fire | 100 | Difícil |
+| Oddish | Grass/Poison | 1 | Fácil |
+| Omanyte | Rock/Water | 1 | Fácil |
+| Omastar 🔒 | Rock/Water | 80 | Difícil |
+| Onix 🔒 | Rock/Ground | 60 | Médio |
+| Paras | Bug/Grass | 1 | Fácil |
+| Parasect | Bug/Grass | 40 | Médio |
+| Persian | Normal | 40 | Médio |
+| Pidgeot 🔒 | Normal/Flying | 80 | Difícil |
+| Pidgeotto | Normal/Flying | 1 | Fácil |
+| Pidgey | Normal/Flying | 1 | Fácil |
+| Pikachu 🔒 | Electric | 60 | Médio |
+| Pinsir 🔒 | Bug | 100 | Difícil |
+| Poliwag | Water | 1 | Fácil |
+| Poliwhirl | Water | 1 | Fácil |
+| Poliwrath 🔒 | Water/Fighting | 80 | Difícil |
+| Ponyta | Fire | 1 | Fácil |
+| Primeape | Fighting | 40 | Médio |
+| Psyduck | Water | 1 | Fácil |
+| Raichu 🔒 | Electric | 80 | Difícil |
+| Rapidash 🔒 | Fire | 80 | Difícil |
+| Raticate | Normal | 1 | Fácil |
+| Rattata | Normal | 1 | Fácil |
+| Rhydon 🔒 | Ground/Rock | 80 | Difícil |
+| Rhyhorn | Ground/Rock | 1 | Fácil |
+| Sandshrew | Ground | 1 | Fácil |
+| Sandslash 🔒 | Ground | 60 | Médio |
+| Scyther 🔒 | Bug/Flying | 100 | Difícil |
+| Seadra | Water | 40 | Médio |
+| Seaking | Water | 40 | Médio |
+| Seel | Water | 1 | Fácil |
+| Shellder | Water | 1 | Fácil |
+| Slowbro 🔒 | Water/Psychic | 60 | Médio |
+| Slowpoke | Water/Psychic | 1 | Fácil |
+| Snorlax 🔒 | Normal | 100 | Difícil |
+| Spearow | Normal/Flying | 1 | Fácil |
+| Squirtle | Water | 1 | Fácil |
+| Starmie 🔒 | Water/Psychic | 80 | Difícil |
+| Staryu | Water | 1 | Fácil |
+| Tangela | Grass | 40 | Médio |
+| Tauros 🔒 | Normal | 60 | Médio |
+| Tentacool | Water/Poison | 1 | Fácil |
+| Tentacruel 🔒 | Water/Poison | 80 | Difícil |
+| Vaporeon 🔒 | Water | 80 | Difícil |
+| Venomoth 🔒 | Bug/Poison | 60 | Médio |
+| Venonat | Bug/Poison | 1 | Fácil |
+| Venusaur 🔒 | Grass/Poison | 80 | Difícil |
+| Victreebel 🔒 | Grass/Poison | 60 | Médio |
+| Vileplume 🔒 | Grass/Poison | 60 | Médio |
+| Voltorb | Electric | 1 | Fácil |
+| Vulpix | Fire | 1 | Fácil |
+| Wartortle | Water | 20 | Fácil |
+| Weedle | Bug/Poison | 1 | Fácil |
+| Weepinbell | Grass/Poison | 1 | Fácil |
+| Weezing 🔒 | Poison | 60 | Médio |
+| Wigglytuff 🔒 | Normal/Fairy | 80 | Difícil |
+| Zubat | Poison/Flying | 1 | Fácil |
+
+> 🔒 = Trancado — seu Pokémon ativo não tem nível suficiente para acessar esta hunt.
+> Desbloqueio automático: assim que o Pokémon ativo atingir o nível da hunt, o cadeado some.
+
 ### Níveis de Dificuldade
 
 | Dificuldade | Descrição |
@@ -460,9 +608,86 @@ O **Depot** é o cofre de Pokémon — um armazém separado da Mochila onde voc�
 
 > **1 Pokémon de cada espécie no Depot** = sua coleção permanente. O restante é moeda de troca.
 
+## 14. O que define um Pokémon forte 🏆
+
+### Hierarquia Básica
+
+| Critério | Ordem (maior → menor) |
+|----------|----------------------|
+| **Categoria** | Mítico > Lendário > Ultra Raro > Raro > Incomum > Comum |
+| **Potencial** | 100 > 0 (dentro da mesma categoria) |
+| **Shiny** | Shiny dobra ATK/DEF/HP (×2) |
+
+### Regra de Decisão (qual manter/vender?)
+
+1. **Categoria primeiro**: Mítico > Lendário > Ultra Raro > Raro > Incomum > Comum
+2. **Depois Potencial**: 100 > 0 (dentro da mesma categoria)
+3. **Shiny**: sempre melhor que não-shiny da mesma categoria
+4. **Para comparar entre categorias diferentes** (ex: Lendário 30 vs Ultra Raro 80): usar a **Calculadora 🧮** no jogo ou aplicar a fórmula abaixo
+
+### Fórmula de Dano (Calculadora)
+
+```
+Dano = Ataque × Força do golpe × Vantagem de tipo × (defesa inimiga) × (penalidade de nível)
+```
+
+**1. Ataque base do Pokémon**
+```
+Ataque = Base(espécie) × (1 + nível × 0.05) × Multiplicador(raridade) × [2 se Shiny]
+```
+- Cada nível dá +5% de ataque (soma, não composto)
+- Raridade: Comum ~1×, Mítico ~3×
+- Shiny: dobra tudo (×2 no final)
+
+**2. Força do golpe**
+- Cada golpe tem sua própria força (ex: 0.8×, 1.0×, 2.4×)
+
+**3. Vantagem de tipo**
+- ×2 se forte contra, ×0.5 se fraco, ×1 neutro
+- Pode empilhar em dual-types (até 4× ou ¼×)
+
+**4. Defesa do inimigo**
+- Dano × (1 - redução) — nunca absorve 100%
+- Defesa calculada similar ao ataque (Base × nível × raridade)
+
+**5. Penalidade de nível**
+- Se inimigo nível > seu nível: Dano × 0.9^diferença (cada nível corta ~10%)
+- Se inimigo nível ≤ seu nível: sem penalidade (×1)
+
+**6. Crítico (sorteio final)**
+- Chance: 15%
+- Se crítico: Dano × 1.6
+
+**Fórmula completa:**
+```
+Dano sem crítico = Ataque × Força × Tipo × (1-Defesa) × Nível × 1.5 × Runa
+Dano crítico = Dano sem crítico × 1.6
+Médio esperado = Dano × 0.85 + DanoCrítico × 0.15
+```
+
+### Exemplo Real (Bulbasaur Lv43 vs Rattata Lv43)
+
+| Passo | Cálculo | Resultado |
+|-------|---------|-----------|
+| Ataque efetivo | Base × nível × raridade | 323 |
+| Força Razor Leaf | ×1.00 | 323 |
+| Vantagem tipo | ×1 (neutro) | 323 |
+| Defesa Rattata | sobra 62.1% | 201 |
+| Diferença nível | sem penalidade (igual) | 201 |
+| Balanceamento × Runa | ×1.5 × 1.00 | 301 |
+| Crítico (15%) | ×1.6 | 482 |
+| **Médio esperado** | 301×0.85 + 482×0.15 | **328.2** |
+
+### Regra Simplificada para o Bot
+
+1. Se Pokémon capturado tem **categoria maior** que o ativo → trocar
+2. Se **mesma categoria** mas **potencial muito maior** (+20) → trocar
+3. Se **Shiny** → sempre priorizar (a menos que categoria muito inferior)
+4. Vendemos: sempre o pior Pokémon da mochila (menor categoria → menor potencial)
+
 ---
 
-## 13. Farm de Gold (Dinheiro)
+## 15. Farm de Gold (Dinheiro)
 
 O Gold vem de **duas fontes principais**:
 
