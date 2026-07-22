@@ -26,10 +26,10 @@
 | **Potencial** | 50/100 |
 | **HP** | 677/677 |
 
-## 🔫 Hunt Atual
+## 🔫 Hunt & Balls
 
-- **Caçada:** Squirtle
-- **Pokébolas:** 0 Ultra | 0 Premier | 0 Poké
+- **Caçada atual:** Squirtle
+- **Ultra Balls:** 0 | **Premier:** 0 | **Poké:** 0
 
 ## ✅ Linked Tasks
 
@@ -45,9 +45,8 @@
 
 ## ✨ Shinies
 
-Nenhum shiny detectado até o momento.
+Nenhum shiny detectado.
 
 ## ⚠️ Erros
 
-Nenhum erro reportado.
-
+Nenhum erro.
