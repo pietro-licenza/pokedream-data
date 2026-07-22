@@ -1,0 +1,10 @@
+# Volatile state files (change every 30-60s)
+STATE.json
+ACTIONS.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/
