@@ -256,7 +256,8 @@ Menu **Hunts** — onde você caça Pokémon selvagens.
 | Wigglytuff 🔒 | Normal/Fairy | 80 | Difícil |
 | Zubat | Poison/Flying | 1 | Fácil |
 
-> 🔒 = Requer chave/item especial para desbloquear
+> 🔒 = Trancado — seu Pokémon ativo não tem nível suficiente para acessar esta hunt.
+> Desbloqueio automático: assim que o Pokémon ativo atingir o nível da hunt, o cadeado some.
 
 ### Níveis de Dificuldade
 
