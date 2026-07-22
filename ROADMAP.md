@@ -8,13 +8,13 @@
 
 ## Estrutura de Arquivos
 
-| Arquivo | Quem escreve | Quem lê |
-|---------|-------------|---------|
-| `ROADMAP.md` | Humano (nós) | Hermes |
-| `STATE.json` | Bot (a cada 60s) | Hermes |
-| `ACTIONS.json` | Hermes (quando decide) | Bot (a cada 30s) |
-| `GUIA.md` | Humano (nós) | Referência completa do jogo |
-| `PROGRESS.md` | Bot (diário) | Humano + Hermes |
+| Arquivo        | Quem escreve           | Quem lê                     |
+| -------------- | ---------------------- | --------------------------- |
+| `ROADMAP.md`   | Humano (nós)           | Hermes                      |
+| `STATE.json`   | Bot (a cada 60s)       | Hermes                      |
+| `ACTIONS.json` | Hermes (quando decide) | Bot (a cada 30s)            |
+| `GUIA.md`      | Humano (nós)           | Referência completa do jogo |
+| `PROGRESS.md`  | Bot (diário)           | Humano + Hermes             |
 
 ---
 
