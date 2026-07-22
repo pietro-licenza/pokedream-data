@@ -88,36 +88,53 @@
 ### 6. MANUTENÇÃO
 
 ```
-- Ultra Balls: Manter 1000-2500. Se < 50, comprar, no início, comprar o que dá até entrarmos no nível desejado. Sempre ter 1000 Pokeballs de fallback, caso as ultra balls acabem.
-- Vender loot: A cada ciclo.
+- Ultra Balls: Manter 50-200. Se < 50, comprar.
+- Poké Balls: Manter algumas como fallback (se Ultra acabar, usa Poké auto)
+- Premier Balls: Manter 50-100 para Shinys (depende da situação financeira)
+- Bola padrão: Sempre Ultra Ball
+- Bola Shiny: Sempre Premier Ball
+- Vender loot: A cada ciclo
 - Auto-sell: Ultra Raro+ (nunca Shiny)
-- Lure: 1 enquanto single-target (Lv 1-50), 3-5 depois de F3 (Lv 50+), dependendo do respaw dar conta.
 - NUNCA vender Stones de evolução
 ```
 
----
+### 7. LURE E MAGIAS
+
+```
+Lure:
+- Sem F3/F4 (Lv 1-49): Lure = 1 (single-target)
+- Com F3 (Lv 50+): Lure = 3-5 (AoE)
+- Com F3+F4 (Lv 80+): Lure = 3-5 (AoE duplo)
+
+Ordem das magias (quando tiver AoE):
+F4 (topo) > F3 > F2 > F1 (base)
+- Sempre colocar skills de área primeiro
+- Single-target depois
+```
+
+### 8. LINKED TASKS
 
 ## 📊 Fases (apenas como referência de nível, não obrigatórias)
 
-| Fase              | Nível Pokémon | Hunt Máxima      | Habilidades                |
-| ----------------- | ------------- | ---------------- | -------------------------- |
-| **Inicial**       | 1-19          | Lv 1 (Fácil)     | F1                         |
-| **Intermediária** | 20-39         | Lv 20 (Fácil)    | F1 + F2                    |
-| **Média**         | 40-59         | Lv 40 (Médio)    | F1 + F2                    |
-| **Avançada**      | 60-79         | Lv 60 (Médio)    | F3 (AoE) desbloqueia Lv 50 |
-| **Difícil**       | 80-99         | Lv 80 (Difícil)  | F3 + F4 (AoE Lv 80)        |
-| **Endgame**       | 100           | Lv 100 (Difícil) | Todas as skills            |
+| Fase | Nível Pokémon | Hunt Máxima | Habilidades |
+|------|--------------|-------------|-------------|
+| **Inicial** | 1-19 | Lv 1 (Fácil) | F1 |
+| **Intermediária** | 20-39 | Lv 20 (Fácil) | F1 + F2 |
+| **Média** | 40-59 | Lv 40 (Médio) | F1 + F2 |
+| **Avançada** | 60-79 | Lv 60 (Médio) | F3 (AoE) desbloqueia Lv 50 |
+| **Difícil** | 80-99 | Lv 80 (Difícil) | F3 + F4 (AoE Lv 80) |
+| **Endgame** | 100 | Lv 100 (Difícil) | Todas as skills |
 
 ### Milestones importantes
 
-| Nível | Desbloqueio                          |
-| ----- | ------------------------------------ |
-| 20    | F2 + hunts Lv 20                     |
-| 40    | Hunts Médio (Lv 40)                  |
-| 50    | **F3 (AoE)** — muda o jogo! Lure 2-3 |
-| 60    | Hunts Lv 60                          |
-| 80    | F4 (AoE) + hunts Difícil             |
-| 100   | Tudo liberado                        |
+| Nível | Desbloqueio |
+|-------|------------|
+| 20 | F2 + hunts Lv 20 |
+| 40 | Hunts Médio (Lv 40) |
+| 50 | **F3 (AoE)** — muda o jogo! Lure 2-3 |
+| 60 | Hunts Lv 60 |
+| 80 | F4 (AoE) + hunts Difícil |
+| 100 | Tudo liberado |
 
 ---
 
