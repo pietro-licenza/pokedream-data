@@ -181,10 +181,12 @@
 - Se não tem stones → mudar estratégia para conseguir (Linked Tasks ou hunt específica)
 
 ### 6. Estratégia de Troca de Pokémon
-- Se capturou um Pokémon **de raridade maior** (ex: Ultra Raro > Raro) → considerar trocar
-- Se capturou um Pokémon **de potencial maior** (+20 pontos) → considerar trocar
+- Comparar por: **Categoria → Potencial → Shiny**
+- Se capturou um Pokémon **de categoria maior** (ex: Ultra Raro > Raro) → trocar o ativo
+- Se **mesma categoria** mas **potencial +20 maior** → trocar
+- Se **Shiny** → sempre priorizar (a menos que categoria muito inferior)
 - Se capturou um Pokémon **do tipo que falta no time** → guardar no Depot
-- Se capturou um Pokémon **shiny** → priorizar como ativo (shiny dobra ATK/DEF/HP)
+- **Vender**: sempre o pior da mochila (menor categoria → menor potencial)
 
 ### 7. Linked Tasks
 - Se a hunt atual contribui para alguma Linked Task → ótimo (XP + gold extra)
