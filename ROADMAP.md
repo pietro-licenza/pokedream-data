@@ -107,6 +107,12 @@
 
 ## Regras de Decisão do Hermes
 
+### Prioridades Gerais (sempre aplicar):
+1. **Sempre evoluir quando possível** — Se Pokémon atingiu nível E tem stones → priorizar evolução imediatamente
+2. **Manter vantagem elemental** — Nunca caçar sem type advantage
+3. **Sempre manter 50+ Ultra Balls** — Se cair abaixo, comprar na próxima ação
+4. **Vender loot periodicamente** — Manter gold fluindo
+
 ### Verificar a cada ciclo (cron 30–60min):
 
 1. **Estado do bot**: 
