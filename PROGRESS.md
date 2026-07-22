@@ -1,6 +1,6 @@
 # 🎮 PokeDream — Progresso
 
-> Atualizado em: 2026-07-22T19:04:26.248Z
+> Atualizado em: 2026-07-22T20:53:01.358Z
 
 ## 📊 Status Geral
 
@@ -8,28 +8,28 @@
 |-----------|-------|
 | **Fase** | 1 — Capital Inicial |
 | **Treinador** | Lv 1 (0% XP) |
-| **Gold** | 💰 40,858 |
+| **Gold** | 💰 137,189 |
 | **Pokédex** | 2/151 |
 | **Party** | 2/6 |
-| **Stamina** | 40 min |
+| **Stamina** | 59 min |
 | **Bot Status** | ✅ Rodando |
-| **Uptime** | 17m 30s |
+| **Uptime** | 17m 14s |
 
 ## 🐉 Pokémon Ativo
 
 | Atributo | Valor |
 |----------|-------|
 | **Nome** | Bulbasaur |
-| **Nível** | Lv 22 (51% XP) |
-| **Tipo** | fire |
-| **Raridade** | Comum |
+| **Nível** | Lv 34 (76% XP) |
+| **Tipo** | grass |
+| **Raridade** | Shiny |
 | **Potencial** | 50/100 |
-| **HP** | 677/677 |
+| **HP** | 817/875 |
 
 ## 🔫 Hunt & Balls
 
 - **Caçada atual:** Squirtle
-- **Ultra Balls:** 0 | **Premier:** 0 | **Poké:** 0
+- **Ultra Balls:** 210 | **Premier:** 0 | **Poké:** 0
 
 ## ✅ Linked Tasks
 
@@ -39,8 +39,8 @@
 
 | Meta | Status |
 |------|--------|
-| 💰 Juntar 1.000+ gold | ✅ **40,858 gold** |
-| 🏀 Comprar 8+ Ultra Balls | ⏳ **0 Ultra Balls** |
+| 💰 Juntar 1.000+ gold | ✅ **137,189 gold** |
+| 🏀 Comprar 8+ Ultra Balls | ✅ **210 Ultra Balls** |
 | 🔥 Ativar Linked Task Fire #1 | ⏳ Pendente |
 
 ## ✨ Shinies
@@ -50,3 +50,6 @@ Nenhum shiny detectado.
 ## ⚠️ Erros
 
 Nenhum erro.
+
+---
+*Gerado automaticamente pelo Hermes Agent — 22/07/2026 20:53*
