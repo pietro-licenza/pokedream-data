@@ -8,23 +8,6 @@
 
 ## 🎯 Filosofia do Jogo
 
-| Arquivo        | Quem escreve           | Quem lê                     |
-| -------------- | ---------------------- | --------------------------- |
-| `ROADMAP.md`   | Humano (nós)           | Hermes                      |
-| `STATE.json`   | Bot (a cada 60s)       | Hermes                      |
-| `ACTIONS.json` | Hermes (quando decide) | Bot (a cada 30s)            |
-| `GUIA.md`      | Humano (nós)           | Referência completa do jogo |
-| `PROGRESS.md`  | Bot (diário)           | Humano + Hermes             |
-
-**Ter todos os Pokémon Shinys, ou no maior rank possível** (Ultra Raro, Legendary, Mythic), formando um time completo e forte.
-
-### Estratégia Geral
-1. Use o **melhor Pokémon atual** para caçar na **hunt mais difícil disponível** com **vantagem elemental**
-2. Capture Pokémon durante as hunts — quando achar um **melhor que o atual**, troque o ativo
-3. Guarde Pokémon bons no **Depot** para usar depois
-4. Evolua SEMPRE que possível (nível + stones disponíveis)
-5. O progresso é lento e baseado em **qualidade > velocidade**
-6. 
 **Objetivo final**: Ter todos os Pokémon no maior rank possível (Shiny, Mítico, Lendário), formando um time completo e forte.
 
 **Como chegar lá**: 
