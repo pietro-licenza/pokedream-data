@@ -111,6 +111,153 @@ A Party comporta até **6 Pokémon**. O Pokémon **em campo** (ativo) é quem lu
 
 Menu **Hunts** — onde você caça Pokémon selvagens.
 
+### Lista Completa de Hunts por Nível
+
+| Hunt | Tipo | Level | Dificuldade |
+|------|------|-------|-------------|
+| Abra | Psychic | 1 | Fácil |
+| Aerodactyl 🔒 | Rock/Flying | 100 | Difícil |
+| Alakazam 🔒 | Psychic | 100 | Difícil |
+| Arbok | Poison | 20 | Fácil |
+| Arcanine 🔒 | Fire | 100 | Difícil |
+| Beedrill | Bug/Poison | 1 | Fácil |
+| Bellsprout | Grass/Poison | 1 | Fácil |
+| Blastoise 🔒 | Water | 80 | Difícil |
+| Bulbasaur | Grass/Poison | 1 | Fácil |
+| Butterfree | Bug/Flying | 1 | Fácil |
+| Caterpie | Bug | 1 | Fácil |
+| Chansey 🔒 | Normal | 60 | Médio |
+| Charizard 🔒 | Fire/Flying | 80 | Difícil |
+| Charmander | Fire | 1 | Fácil |
+| Charmeleon | Fire | 20 | Fácil |
+| Clefable 🔒 | Fairy | 80 | Difícil |
+| Clefairy | Fairy | 20 | Fácil |
+| Cloyster 🔒 | Water/Ice | 60 | Médio |
+| Cubone | Ground | 1 | Fácil |
+| Dewgong 🔒 | Water/Ice | 60 | Médio |
+| Diglett | Ground | 1 | Fácil |
+| Dodrio 🔒 | Normal/Flying | 60 | Médio |
+| Doduo | Normal/Flying | 1 | Fácil |
+| Dragonair 🔒 | Dragon | 80 | Difícil |
+| Dragonite 🔒 | Dragon/Flying | 100 | Difícil |
+| Dratini | Dragon | 1 | Fácil |
+| Drowzee | Psychic | 1 | Fácil |
+| Dugtrio | Ground | 20 | Fácil |
+| Eevee | Normal | 1 | Fácil |
+| Ekans | Poison | 1 | Fácil |
+| Electabuzz 🔒 | Electric | 100 | Difícil |
+| Electrode | Electric | 20 | Fácil |
+| Exeggcute | Grass/Psychic | 1 | Fácil |
+| Exeggutor 🔒 | Grass/Psychic | 100 | Difícil |
+| Fearow | Normal/Flying | 40 | Médio |
+| Flareon 🔒 | Fire | 80 | Difícil |
+| Gastly | Ghost/Poison | 1 | Fácil |
+| Gengar 🔒 | Ghost/Poison | 100 | Difícil |
+| Geodude | Rock/Ground | 1 | Fácil |
+| Gloom | Grass/Poison | 1 | Fácil |
+| Golbat | Poison/Flying | 20 | Fácil |
+| Goldeen | Water | 1 | Fácil |
+| Golduck 🔒 | Water | 80 | Difícil |
+| Golem 🔒 | Rock/Ground | 80 | Difícil |
+| Graveler | Rock/Ground | 20 | Fácil |
+| Grimer | Poison | 1 | Fácil |
+| Growlithe | Fire | 1 | Fácil |
+| Gyarados 🔒 | Water/Flying | 100 | Difícil |
+| Haunter | Ghost/Poison | 40 | Médio |
+| Hitmonchan 🔒 | Fighting | 60 | Médio |
+| Hitmonlee 🔒 | Fighting | 60 | Médio |
+| Horsea | Water | 1 | Fácil |
+| Hypno 🔒 | Psychic | 60 | Médio |
+| Ivysaur | Grass/Poison | 20 | Fácil |
+| Jigglypuff | Normal/Fairy | 20 | Fácil |
+| Jolteon 🔒 | Electric | 80 | Difícil |
+| Jynx 🔒 | Ice/Psychic | 80 | Difícil |
+| Kabuto | Rock/Water | 1 | Fácil |
+| Kabutops 🔒 | Rock/Water | 80 | Difícil |
+| Kadabra | Psychic | 40 | Médio |
+| Kakuna | Bug/Poison | 1 | Fácil |
+| Kangaskhan 🔒 | Normal | 80 | Difícil |
+| Kingler 🔒 | Water | 60 | Médio |
+| Koffing | Poison | 1 | Fácil |
+| Krabby | Water | 1 | Fácil |
+| Lapras 🔒 | Water/Ice | 100 | Difícil |
+| Lickitung 🔒 | Normal | 60 | Médio |
+| Machamp 🔒 | Fighting | 80 | Difícil |
+| Machoke | Fighting | 20 | Fácil |
+| Machop | Fighting | 1 | Fácil |
+| Magikarp | Water | 1 | Fácil |
+| Magmar 🔒 | Fire | 100 | Difícil |
+| Magnemite | Electric/Steel | 1 | Fácil |
+| Magneton 🔒 | Electric/Steel | 80 | Difícil |
+| Mankey | Fighting | 1 | Fácil |
+| Marowak | Ground | 40 | Médio |
+| Meowth | Normal | 1 | Fácil |
+| Metapod | Bug | 1 | Fácil |
+| Muk 🔒 | Poison | 80 | Difícil |
+| Nidoking 🔒 | Poison/Ground | 80 | Difícil |
+| Nidoqueen 🔒 | Poison/Ground | 80 | Difícil |
+| Nidorina | Poison | 1 | Fácil |
+| Nidorino | Poison | 1 | Fácil |
+| Ninetales 🔒 | Fire | 100 | Difícil |
+| Oddish | Grass/Poison | 1 | Fácil |
+| Omanyte | Rock/Water | 1 | Fácil |
+| Omastar 🔒 | Rock/Water | 80 | Difícil |
+| Onix 🔒 | Rock/Ground | 60 | Médio |
+| Paras | Bug/Grass | 1 | Fácil |
+| Parasect | Bug/Grass | 40 | Médio |
+| Persian | Normal | 40 | Médio |
+| Pidgeot 🔒 | Normal/Flying | 80 | Difícil |
+| Pidgeotto | Normal/Flying | 1 | Fácil |
+| Pidgey | Normal/Flying | 1 | Fácil |
+| Pikachu 🔒 | Electric | 60 | Médio |
+| Pinsir 🔒 | Bug | 100 | Difícil |
+| Poliwag | Water | 1 | Fácil |
+| Poliwhirl | Water | 1 | Fácil |
+| Poliwrath 🔒 | Water/Fighting | 80 | Difícil |
+| Ponyta | Fire | 1 | Fácil |
+| Primeape | Fighting | 40 | Médio |
+| Psyduck | Water | 1 | Fácil |
+| Raichu 🔒 | Electric | 80 | Difícil |
+| Rapidash 🔒 | Fire | 80 | Difícil |
+| Raticate | Normal | 1 | Fácil |
+| Rattata | Normal | 1 | Fácil |
+| Rhydon 🔒 | Ground/Rock | 80 | Difícil |
+| Rhyhorn | Ground/Rock | 1 | Fácil |
+| Sandshrew | Ground | 1 | Fácil |
+| Sandslash 🔒 | Ground | 60 | Médio |
+| Scyther 🔒 | Bug/Flying | 100 | Difícil |
+| Seadra | Water | 40 | Médio |
+| Seaking | Water | 40 | Médio |
+| Seel | Water | 1 | Fácil |
+| Shellder | Water | 1 | Fácil |
+| Slowbro 🔒 | Water/Psychic | 60 | Médio |
+| Slowpoke | Water/Psychic | 1 | Fácil |
+| Snorlax 🔒 | Normal | 100 | Difícil |
+| Spearow | Normal/Flying | 1 | Fácil |
+| Squirtle | Water | 1 | Fácil |
+| Starmie 🔒 | Water/Psychic | 80 | Difícil |
+| Staryu | Water | 1 | Fácil |
+| Tangela | Grass | 40 | Médio |
+| Tauros 🔒 | Normal | 60 | Médio |
+| Tentacool | Water/Poison | 1 | Fácil |
+| Tentacruel 🔒 | Water/Poison | 80 | Difícil |
+| Vaporeon 🔒 | Water | 80 | Difícil |
+| Venomoth 🔒 | Bug/Poison | 60 | Médio |
+| Venonat | Bug/Poison | 1 | Fácil |
+| Venusaur 🔒 | Grass/Poison | 80 | Difícil |
+| Victreebel 🔒 | Grass/Poison | 60 | Médio |
+| Vileplume 🔒 | Grass/Poison | 60 | Médio |
+| Voltorb | Electric | 1 | Fácil |
+| Vulpix | Fire | 1 | Fácil |
+| Wartortle | Water | 20 | Fácil |
+| Weedle | Bug/Poison | 1 | Fácil |
+| Weepinbell | Grass/Poison | 1 | Fácil |
+| Weezing 🔒 | Poison | 60 | Médio |
+| Wigglytuff 🔒 | Normal/Fairy | 80 | Difícil |
+| Zubat | Poison/Flying | 1 | Fácil |
+
+> 🔒 = Requer chave/item especial para desbloquear
+
 ### Níveis de Dificuldade
 
 | Dificuldade | Descrição |
