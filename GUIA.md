@@ -314,59 +314,217 @@ Menu **Linked Tasks** — missões sequenciais por tipo elemental. Total: **146 
 
 ### Funcionamento
 
-- Tasks são liberadas em **ordem sequencial** por tipo
-- Cada task tem um **alvo específico** (Pokémon a derrotar)
-- Ao concluir, recebe a **recompensa principal** e a próxima task é liberada
-- Tasks podem ser **repetidas infinitamente** com recompensa reduzida
-- Botão "Ir para a hunt →" leva direto à caçada do alvo
+- **Automáticas**: não precisa ativar nada. Mate o alvo da hunt e o progresso conta.
+- **Sequenciais**: Task 2 só libera após completar Task 1 uma vez.
+- **Repetíveis**: após completar 1x, pode refazer para bônus reduzido.
+- **Bônus**: XP + Gold extra ao matar o alvo da task.
+- **Qualquer Pokémon pode fazer**: mas o bônus só vale se a task estiver desbloqueada.
 
-### Estrutura de uma Task
+### FIRE 🔥 (11 tasks)
 
-| Campo | Descrição |
-|-------|-----------|
-| Nome | Título da missão |
-| Descrição | Lore/flavor text |
-| Alvo | Pokémon a derrotar |
-| Progresso | Ex: 0/80 kills |
-| Recompensa | Itens + Gold (💰) + XP (⭐) |
-| Repetição | Recompensa reduzida ao refazer |
+| # | Task | Alvo | Nível | Recompensa |
+|---|------|------|-------|------------|
+| 1 | Faíscas de Kanto | Charmander ×80 | 1 | 💰3.000 + ⭐8.000 + 10 Poké Balls |
+| 2 | Raposas Ardentes | Vulpix | 1 | 💰5.000 + ⭐15.000 + Fire Stone ×1 |
+| 3 | Patrulha Canina | Growlithe | 1 | 💰5.000 + ⭐15.000 + Fire Stone ×1 |
+| 4 | Chama Crescente | Charmeleon | 20 | 💰1.740 + ⭐5.500 |
+| 5 | Lava das Ilhas | Ponyta | 1 | 💰1.740 + ⭐5.500 + 5 Ultra Balls |
+| 6 | Lorde do Fogo | Charizard | 80 | 💰3.420 + ⭐10.900 + Fire Stone ×1 |
+| 7 | Raposa Mística | Ninetales | 100 | 💰3.420 + ⭐10.900 + Fire Stone ×1 |
+| 8 | Fera Lendária | Arcanine | 100 | 💰3.420 + ⭐10.900 + Fire Stone ×1 |
+| 9 | Cavalgada Flamejante | Rapidash | 80 | 💰3.420 + ⭐10.900 + Fire Stone ×1 |
+| 10 | Conclave do Fogo | Magmar | 100 | 💰3.420 + ⭐10.900 + Fire Stone ×2 |
+| 11 | Chama Eterna | Flareon | 80 | 💰3.420 + ⭐10.900 + Fire Stone ×1 |
 
-### Categorias por Tipo
+### WATER 💧 (28 tasks)
 
-| Tipo | Tasks |
-|------|-------|
-| Fire | 11 |
-| Water | 28 |
-| Grass | 12 |
-| Electric | 8 |
-| Bug | 12 |
-| Fighting | 7 |
-| Flying | 11 |
-| Ground | 10 |
-| Normal | 16 |
-| Poison | 15 |
-| Psychic | 7 |
-| Rock | 9 |
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Língua Travessa | Shellder ×40 | 1 |
+| 2 | Peixe Inútil | Magikarp | 1 |
+| 3 | O Começo das Marés | Squirtle | 1 |
+| 4 | Girino Espiral | Poliwag | 1 |
+| 5 | Água-viva Tóxica | Tentacool | 1 |
+| 6 | Caçada nas Ondas | Krabby | 1 |
+| 7 | Ressaca | Psyduck | 1 |
+| 8 | Cavalo Marinho | Horsea | 1 |
+| 9 | Princesa Aquática | Goldeen | 1 |
+| 10 | Profundezas de Kanto | Wartortle | 20 |
+| 11 | Anfíbio Hipnótico | Poliwhirl | 1 |
+| 12 | Lerdão Pensativo | Slowpoke | 1 |
+| 13 | Lerdão Eterno | Slowbro | 60 |
+| 14 | Foca Polar | Seel | 1 |
+| 15 | Estrela do Mar | Staryu | 1 |
+| 16 | Concha Impenetrável | Cloyster | 60 |
+| 17 | Conselho das Águas | Seadra | 40 |
+| 18 | Rei dos Rios | Seaking | 40 |
+| 19 | Garra Gigante | Kingler | 60 |
+| 20 | Sereia Branca | Dewgong | 60 |
+| 21 | Tartaruga de Guerra | Blastoise | 80 |
+| 22 | Pato Psíquico | Golduck | 80 |
+| 23 | Lutador Aquático | Poliwrath | 80 |
+| 24 | Tentáculos Mortais | Tentacruel | 80 |
+| 25 | Estrela Misteriosa | Starmie | 80 |
+| 26 | Serpente Furiosa | Gyarados | 100 |
+| 27 | Transporte Marinho | Lapras | 100 |
+| 28 | Sereia Aquática | Vaporeon | 80 |
 
-### Exemplo: Cadeia Fire
+### GRASS 🌿 (12 tasks)
 
-Ordem sequencial verificada no jogo:
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Sementes de Kanto | Bulbasaur ×7 ✅ | 1 |
+| 2 | Pólen Perigoso | Oddish ×60 | 1 |
+| 3 | Planta Carnívora | Bellsprout | 1 |
+| 4 | Raízes Profundas | Ivysaur | 20 |
+| 5 | Flor Fedorenta | Gloom | 1 |
+| 6 | Carnívora Faminta | Weepinbell | 1 |
+| 7 | Colhedor da Floresta | Exeggcute | 1 |
+| 8 | Cipó Embolado | Tangela | 40 |
+| 9 | Pétalas Tóxicas | Vileplume | 60 |
+| 10 | Senhor da Selva | Venusaur | 80 |
+| 11 | Devorador Vegetal | Victreebel | 60 |
+| 12 | Três Cabeças Sábias | Exeggutor | 100 |
 
-1. **Faíscas de Kanto** (Charmander ×80) → 💰3.000 + ⭐8.000 + 10 Poké Balls
-2. **Raposas Ardentes** (Vulpix) → 💰5.000 + ⭐15.000 + Fire Stone ×1
-3. **Patrulha Canina** (Growlithe) → 💰5.000 + ⭐15.000 + Fire Stone ×1
-4. **Chama Crescente** (Charmeleon) → 💰1.740 + ⭐5.500
-5. **Lava das Ilhas** (Ponyta) → 💰1.740 + ⭐5.500 + 5 Ultra Balls
-6. **Lorde do Fogo** (Charizard) → 💰3.420 + ⭐10.900 + Fire Stone ×1
-7. **Raposa Mística** (Ninetales) → 💰3.420 + ⭐10.900 + Fire Stone ×1
-8. **Fera Lendária** (Arcanine) → 💰3.420 + ⭐10.900 + Fire Stone ×1
-9. **Cavalgada Flamejante** (Rapidash) → 💰3.420 + ⭐10.900 + Fire Stone ×1
-10. **Conclave do Fogo** (Magmar) → 💰3.420 + ⭐10.900 + Fire Stone ×2
-11. **Chama Eterna** (Flareon) → 💰3.420 + ⭐10.900 + Fire Stone ×1
+### ELECTRIC ⚡ (8 tasks)
 
-### Estratégia: Hunts + Linked Tasks
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Bomba Andante | Voltorb ×100 | 1 |
+| 2 | Campo Magnético | Magnemite | 1 |
+| 3 | Centelhas Amareladas | Pikachu | 60 |
+| 4 | Explosivo Atmosférico | Electrode | 20 |
+| 5 | Trio Magnético | Magneton | 80 |
+| 6 | Trovão Definitivo | Raichu | 80 |
+| 7 | Trovejada Final | Electabuzz | 100 |
+| 8 | Lâmpada Voltaica | Jolteon | 80 |
 
-> **Ideal**: Combine a **rotação de Hunts** com as **Linked Tasks** do mesmo tipo. Enquanto farma XP/capturas na hunt, você progride nas tasks simultaneamente, ganhando Gold e XP extras como bônus.
+### BUG 🐛 (12 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Lagarta Curiosa | Caterpie ×40 | 1 |
+| 2 | Larva Espinhenta | Weedle | 1 |
+| 3 | Esporos Subterrâneos | Paras | 1 |
+| 4 | Casulo Endurecido | Metapod | 1 |
+| 5 | Casulo Espinhento | Kakuna | 1 |
+| 6 | Olhos Compostos | Venonat | 1 |
+| 7 | Cogumelo Parasita | Parasect | 40 |
+| 8 | Mariposa Tóxica | Venomoth | 60 |
+| 9 | Borboleta Solar | Butterfree | 1 |
+| 10 | Enxame Furioso | Beedrill | 1 |
+| 11 | Lâmina Voadora | Scyther | 100 |
+| 12 | Tenaz de Ferro | Pinsir | 100 |
+
+### FIGHTING 💪 (7 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Fúria Selvagem | Mankey ×60 | 1 |
+| 2 | Músculo em Treino | Machop | 1 |
+| 3 | Força Crescente | Machoke | 20 |
+| 4 | Soco Mortal | Hitmonchan | 60 |
+| 5 | Chute Definitivo | Hitmonlee | 60 |
+| 6 | Ira Descontrolada | Primeape | 40 |
+| 7 | Quatro Braços | Machamp | 80 |
+
+### FLYING 🕊️ (11 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Ave Comum | Pidgey ×60 | 1 |
+| 2 | Bico Afiado | Spearow | 1 |
+| 3 | Duas Cabeças | Doduo | 1 |
+| 4 | Asas em Crescimento | Pidgeotto | 1 |
+| 5 | Predador Aéreo | Fearow | 40 |
+| 6 | Serpente Azul | Dratini | 1 |
+| 7 | Pato Errante | Farfetch'd | 1 |
+| 8 | Trio Corredor | Dodrio | 60 |
+| 9 | Serpente Mística | Dragonair | 80 |
+| 10 | Ave Majestosa | Pidgeot | 80 |
+| 11 | Dragão Gentil | Dragonite | 100 |
+
+### GROUND 🏜️ (10 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Toupeira Escondida | Diglett ×60 | 1 |
+| 2 | Pequena Toupeira | Sandshrew | 1 |
+| 3 | Chifre Bruto | Rhyhorn | 1 |
+| 4 | Órfão da Caveira | Cubone | 1 |
+| 5 | Chifre Devastador | Rhydon | 80 |
+| 6 | Trio Subterrâneo | Dugtrio | 20 |
+| 7 | Osso Vingativo | Marowak | 40 |
+| 8 | Garras de Areia | Sandslash | 60 |
+| 9 | Rainha Espinhada | Nidoqueen | 80 |
+| 10 | Rei Espinhado | Nidoking | 80 |
+
+### NORMAL 🐭 (16 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Rato Rápido | Rattata ×55 | 1 |
+| 2 | Gato Ladrão | Meowth | 1 |
+| 3 | Imitador Perfeito | Ditto | 1 |
+| 4 | Presas Roedoras | Raticate | 1 |
+| 5 | Fada da Lua | Clefairy | 20 |
+| 6 | Balão Cantor | Jigglypuff | 20 |
+| 7 | Ovo da Sorte | Chansey | 60 |
+| 8 | Evolução em Potencial | Eevee | 1 |
+| 9 | Felino Elegante | Persian | 40 |
+| 10 | Língua Pegajosa | Lickitung | 60 |
+| 11 | Touro Selvagem | Tauros | 60 |
+| 12 | Dado Digital | Porygon | 1 |
+| 13 | Dança Lunar | Clefable | 80 |
+| 14 | Balão Sonolento | Wigglytuff | 80 |
+| 15 | Mãe Protetora | Kangaskhan | 80 |
+| 16 | Gigante Adormecido | Snorlax | 100 |
+
+### POISON ☠️ (15 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Filhote Espinhado (M) | Nidoran♂ ×40 | 1 |
+| 2 | Cobra Rastejante | Ekans | 1 |
+| 3 | Morcego Cego | Zubat | 1 |
+| 4 | Gás Sombrio | Gastly | 1 |
+| 5 | Filhote Espinhado (F) | Nidoran♀ | 1 |
+| 6 | Lodo Tóxico | Grimer | 1 |
+| 7 | Balão de Gás | Koffing | 1 |
+| 8 | Predadora Adolescente | Nidorina | 1 |
+| 9 | Predador Adolescente | Nidorino | 1 |
+| 10 | Capuz da Cobra | Arbok | 20 |
+| 11 | Vampiro Voador | Golbat | 20 |
+| 12 | Sombra Zombeteira | Haunter | 40 |
+| 13 | Nuvem Venenosa | Weezing | 60 |
+| 14 | Lama Venenosa | Muk | 80 |
+| 15 | Sorriso na Escuridão | Gengar | 100 |
+
+### PSYCHIC 🔮 (7 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Teleporte Sonolento | Abra ×60 | 1 |
+| 2 | Colher Dobrada | Kadabra | 40 |
+| 3 | Devorador de Sonhos | Drowzee | 1 |
+| 4 | Mestre da Mímica | Mr. Mime | 1 |
+| 5 | Pêndulo Hipnótico | Hypno | 60 |
+| 6 | Mente Suprema | Alakazam | 100 |
+| 7 | Dança Congelante | Jynx | 80 |
+
+### ROCK 🪨 (9 tasks)
+
+| # | Task | Alvo | Nível |
+|---|------|------|-------|
+| 1 | Pedra Andante | Geodude ×12 ✅ | 1 |
+| 2 | Rocha Rolante | Graveler ×85 | 20 |
+| 3 | Concha Antiga | Omanyte | 1 |
+| 4 | Fóssil Revivido | Kabuto | 1 |
+| 5 | Serpente de Pedra | Onix | 60 |
+| 6 | Montanha Viva | Golem | 80 |
+| 7 | Fóssil Caracol | Omastar | 80 |
+| 8 | Fóssil Predador | Kabutops | 80 |
+| 9 | Predador Pré-histórico | Aerodactyl | 100 |
 
 ---
 

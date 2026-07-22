@@ -188,9 +188,14 @@
 - Se capturou um Pokémon **do tipo que falta no time** → guardar no Depot
 - **Vender**: sempre o pior da mochila (menor categoria → menor potencial)
 
-### 7. Linked Tasks
-- Se a hunt atual contribui para alguma Linked Task → ótimo (XP + gold extra)
-- Se precisamos de stones de evolução → priorizar hunt que contribui para a task correta
+### 7. Linked Tasks (automáticas)
+- **São automáticas**: não precisa ativar nada — basta caçar o alvo
+- **Sequenciais**: Task 2 libera após Task 1 completa (ex: para fazer Oddish, precisa completar Bulbasaur)
+- **Qualquer Pokémon pode caçar qualquer hunt** — mas o bônus da linked task só vale se a task estiver desbloqueada
+- **Repetíveis**: depois de completar 1x, pode refazer para bônus menor
+- **Bônus**: XP + Gold extra por kill do alvo
+- **Estratégia**: Priorizar completar as primeiras tasks de cada cadeia para destravar as seguintes
+- Completamos ✅ Grass #1 (Bulbasaur) e ✅ Rock #1 (Geodude) — então Grass #2 (Oddish) e Rock #2 (Graveler) estão ativas
 
 ---
 
