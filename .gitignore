@@ -2,6 +2,9 @@
 STATE.json
 ACTIONS.json
 
+# Auto-generated progress reports (cron)
+PROGRESS.md
+
 # OS files
 .DS_Store
 Thumbs.db
