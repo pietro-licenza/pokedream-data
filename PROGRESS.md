@@ -49,3 +49,4 @@ Nenhum erro.
 
 ---
 *Jogo resetou em 23/07/2026 — recomeçando do zero.*
+
