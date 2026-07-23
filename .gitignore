@@ -12,3 +12,5 @@ Thumbs.db
 # Obsidian
 .obsidian/
 last_state.json
+sync.log
+test_snapshot.json
