@@ -12,15 +12,14 @@ Key files you should read:
 - /docker/pokedreams/data/STATE.json — current bot state (updated every 60s by the bot)
 - /docker/pokedreams/data/ACTIONS.json — where YOU write actions for the bot to execute
 
-Action types you can write to ACTIONS.json:
-- {"type":"change_hunt","hunt":"Bulbasaur"} — switch to a different hunt
-- {"type":"set_lure","value":3} — change lure setting (1-5)
-- {"type":"buy_ultra_balls","quantity":50} — buy ultra balls from shop
-- {"type":"sell_loot"} — sell all accumulated loot
-- {"type":"restart_bot"} — request bot restart
-- {"type":"configure_auto_sell","config":{"rarity":"Ultra Raro"}} — adjust auto-sell
-- {"type":"manage_pokemon"} — dry run: scan party+bag+depot and show decisions only
-- {"type":"execute_pokemon"} — execute decisions: sell weak duplicates, promote best to party
+Action types you can write to ACTIONS.json (always wrap in `{"actions": [...]}`):
+- {"actions":[{"type":"change_hunt","hunt":"Bulbasaur"}]} — switch to a different hunt
+- {"actions":[{"type":"set_lure","value":3}]} — change lure setting (1-5)
+- {"actions":[{"type":"buy_ultra_balls","quantity":50}]} — buy ultra balls from shop
+- {"actions":[{"type":"sell_loot"}]} — sell all accumulated loot
+- {"actions":[{"type":"restart_bot"}]} — request bot restart
+- {"actions":[{"type":"manage_pokemon"}]} — dry run: scan party+bag+depot and show decisions
+- {"actions":[{"type":"execute_pokemon"}]} — execute sell/promote decisions
 
 Your job:
 1. Read STATE.json to understand current game state
