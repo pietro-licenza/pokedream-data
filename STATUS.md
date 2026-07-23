@@ -26,6 +26,7 @@
 | 10:08 | `buy_ultra_balls 50` | ⏳ Aguardando bot executar |
 | 09:03 | `buy_ultra_balls 200` + `change_hunt Marowak` + `set_lure 3` | ⏳ Pendente |
 | 09:00 | `change_hunt Marowak` (sugerido) | ⏳ Pendente |
+| 10:11 | Push bidirecional configurado ✅ | ✅ Ativo |
 
 ### Observações
 
