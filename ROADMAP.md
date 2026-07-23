@@ -141,16 +141,14 @@ F4 (topo) > F3 > F2 > F1 (base)
 ## 🎯 Estado Atual (19h30 BRT)
 
 ```
-🌿 Bulbasaur (Grass) Lv 42 — Comum Pot 50
-🎯 Hunt: Seadra (Water Lv 40) — type advantage ✅
-💰 185k gold · 🔵 210 Ultra Balls
-📖 Dex 2/151 · 👤 Treinador Lv 1
+🐢 Squirtle (Water) Lv 3 — Comum Pot 50
+🎯 Hunt: Charmander (Fire Lv 1) — type advantage ✅
+💰 88 gold · 🔵 0 Ultra Balls
+📖 Dex 1/151 · 👤 Treinador Lv 1
 ```
 
 ### Decisões Imediatas
 
-- ✅ Hunt Seadra Lv 40 é a melhor escolha agora (maior nível com vantagem)
-- 🔄 Subir até Lv 50 para desbloquear F3 (AoE + Lure 2-3 = +XP)
-- ⏳ Capturar algo melhor que o Bulbasaur Comum Pot 50
-- ⏳ Conseguir Leaf Stones para Bulbasaur → Ivysaur
-- ⏳ Se capturar um Pokémon de categoria maior, trocar o ativo
+- ✅ Farm inicial com Squirtle para juntar gold
+- 🔄 Comprar Ultra Balls assim que tiver gold suficiente
+- ⏳ Subir nível para desbloquear novas hunts

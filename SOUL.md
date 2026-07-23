@@ -19,6 +19,8 @@ Action types you can write to ACTIONS.json:
 - {"type":"sell_loot"} — sell all accumulated loot
 - {"type":"restart_bot"} — request bot restart
 - {"type":"configure_auto_sell","config":{"rarity":"Ultra Raro"}} — adjust auto-sell
+- {"type":"manage_pokemon"} — dry run: scan party+bag+depot and show decisions only
+- {"type":"execute_pokemon"} — execute decisions: sell weak duplicates, promote best to party
 
 Your job:
 1. Read STATE.json to understand current game state

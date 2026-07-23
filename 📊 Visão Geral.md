@@ -18,4 +18,4 @@ Veja o [[PokeDream/PROGRESS.md\|progresso completo]] para detalhes atualizados.
 
 ---
 
-*Este é um link simbólico para `/opt/data/pokedream-data/` — o conteúdo é atualizado pelo Hermes Agent.*
+*💥 Jogo resetou em 23/07/2026 — recomeçando do zero com Squirtle.*
